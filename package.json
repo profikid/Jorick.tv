@@ -1,0 +1,18 @@
+{
+  "name": "jorick.tv",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=./",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "path": "^0.12.7",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1"
+  }
+}
